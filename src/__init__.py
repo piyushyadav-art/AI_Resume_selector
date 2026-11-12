@@ -1,0 +1,3 @@
+"""
+AI Resume Intelligence package.
+"""

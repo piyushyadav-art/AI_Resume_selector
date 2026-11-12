@@ -1,0 +1,40 @@
+### AI Engineer – Fresher
+
+We are looking for a motivated AI Engineer Fresher to join our team and contribute to the development of AI and machine learning applications.
+
+### Responsibilities
+
+* Develop and implement machine learning models using Python and PyTorch.
+* Perform data preprocessing, feature engineering, model training, and evaluation.
+* Build AI-powered applications and REST APIs using FastAPI.
+* Work with SQL databases to store, retrieve, and process application data.
+* Develop LLM-based applications using LangChain and integrate AI models into real-world applications.
+* Debug, test, and optimize machine learning models and AI applications.
+* Use Git and GitHub for version control and collaborative development.
+* Containerize AI applications using Docker.
+* Maintain technical documentation and contribute to the improvement of AI systems.
+
+### Required Skills
+
+* Python programming
+* Machine Learning fundamentals
+* PyTorch
+* SQL
+* FastAPI
+* LangChain
+* Docker
+* Git and GitHub
+* Basic knowledge of NLP and Generative AI
+* Understanding of REST APIs and software development practices
+
+### Education
+
+* B.Tech/B.E. in Computer Science, Artificial Intelligence, Machine Learning, Data Science, or a related field.
+* Freshers and students with relevant AI/ML projects are welcome.
+
+### Preferred Skills
+
+* Knowledge of LangGraph or RAG
+* Experience with NumPy, Pandas, and scikit-learn
+* Basic knowledge of cloud deployment
+* Experience building AI/ML projects or participating in hackathons
